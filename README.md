@@ -154,7 +154,7 @@ console.log(evenNumbers); // Output: [2, 4]
 ---
 
 
- ## CAN WE DO MAP REDUCE FILTER FOREACH WITHOUT HOT(CALLBACK)
+ ## CAN WE DO MAP REDUCE FILTER FOREACH WITHOUT HOF(CALLBACK)
 
 
 In JavaScript, map, forEach, reduce, and filter methods are higher-order functions that expect a callback function as an argument. While these methods are designed to work with callbacks, there are some alternatives to achieve similar results without using explicit callbacks. Below is a discussion of each method and its callback requirement, along with possible alternatives.
